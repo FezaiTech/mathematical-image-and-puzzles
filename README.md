@@ -1,4 +1,4 @@
-# **Artificial Image Puzzles**  
+# **Mathematical Image And Puzzles**  
 This repository explores the creation and manipulation of artificial RGB images using mathematical and logical expressions. It consists of two main projects:
 
 1. **Mathematical RGB Images** – Generating synthetic RGB visuals based on mathematical functions and expressions, illustrating their relationships through plots and meshes.  
